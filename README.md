@@ -44,7 +44,7 @@ Siga os passos abaixo para rodar o projeto localmente:
    │   │   │   ├── layout
    │   │   │   │   ├── activity_login.xml # Layout onde o usuário podera logar seus dados
    │   │   │   │   ├── activity_main.xml # Layout onde o usuário pode cadastrar ou logar seus dados atrávez do botão
-   │   │   │   │   ├── activity_registrar # Layout onde o usuário podera cadastrar seus dados para serem salvos no Database
+   │   │   │   │   ├── activity_registrar.xml # Layout onde o usuário podera cadastrar seus dados para serem salvos no Database
    │   │   │   └── values
    │   │   │       ├── strings.xml # Strings usadas no app
    │   │   │       ├── colors.xml # Cores definidas no projeto
